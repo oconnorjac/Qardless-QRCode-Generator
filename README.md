@@ -1,1 +1,1 @@
-# Qardless-QRCode-API
+# Qardless-QRCode-Generator
